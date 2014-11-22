@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book>
+		<author>Автор " ' 1</author>
+		<name>Име на " ' книга 1</name>
+	</book>
+	<book>
+		<author><![CDATA[Автор 2]]></author>
+		<name><![CDATA[Име на книга 2]]></name>
+	</book>
+	<book>
+		<author><![CDATA[Автор 3]]></author>
+		<name><![CDATA[Schnelle vegetarische Küche 3]]></name>
+	</book>
+	<book>
+		<author><![CDATA[Author 4]]></author>
+		<name><![CDATA[Име на книга 4]]></name>
+	</book>
+	<book>
+		<author><![CDATA[日本国 5]]></author>
+		<name><![CDATA[Agodaホテル予約サービスへようこそ。当社では北京のホテルを 5]]></name>
+	</book>
+	<book>
+		<author><![CDATA[Автор 6]]></author>
+		<name><![CDATA[Име на книга 6]]></name>
+	</book>
+	<book>
+		<author><![CDATA[日本国 71]]></author>
+		<name><![CDATA[ホテル予約サービスへようこそ。当社では北京のホテルを 71]]></name>
+	</book>
+	<book>
+		<author><![CDATA[日本国 8]]></author>
+		<name><![CDATA[当社では北京のホテルを 8]]></name>
+	</book>
+</books>
