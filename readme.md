@@ -5,20 +5,20 @@
 - SimpleXML 
 - Bootstrap 3.3.0
 
-Recursively crawl XML files content (utf8) from directory and store it in PostgreSQL database, as result the XML files content is listed. It's appropriate for small files ~20-30-40 KB. There is a `search by author` option. The XML file structure is: 
+Recursively crawl XML files content (utf8) from directory and store it in PostgreSQL database, as result the XML files content is listed. It's appropriate for small files ~20-30-40 KB. In front-end interface, there is `search by author` option. The XML file structure is: 
 
-<book>
-    <author>Author name 1</author>
-    <name>Book name 1</name>
-</book>
-<book>
-    <author>Author name 2</author>
-    <name>Book name 2</name>
-</book>
-<book>
-.....
-</book>
-
+<pre>
+<code>&lt;book&gt;
+    &lt;author&gt;Author name 1&lt;/author&gt;
+    &lt;name&gt;Book name 1&lt;/name&gt;
+&lt;/book&gt;
+&lt;book&gt;
+    &lt;author&gt;Author name 2&lt;/author&gt;
+    &lt;name&gt;Book name 2&lt;/name&gt;
+&lt;/book&gt;
+&lt;book&gt;<br />    .....
+&lt;/book&gt;</code>
+</pre>
 
 ### Contributing To This Example
 
