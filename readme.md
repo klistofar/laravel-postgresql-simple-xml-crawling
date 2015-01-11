@@ -1,5 +1,7 @@
 ##  Recursive XML content crawler (based on SimpleXML) for XML files with specific structure
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/klistofar/laravel-postgresql-simple-xml-crawling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - Laravel 4.2.11 
 - PostgreSQL 9.1 
 - SimpleXML 
